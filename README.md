@@ -33,6 +33,7 @@ Luncard 是一家总部在香港的多币种支付平台，成立于 2023 年，
 
 <img width="1101" height="748" alt="屏幕截图 2026-11-16 221601" src="https://github.com/user-attachments/assets/bb7b3a45-bdb4-4018-a8b1-a37e25e6bfd9" />
 
+<img width="1401" height="739" alt="屏幕截图 2026-11-16 212924" src="https://github.com/user-attachments/assets/b4188f2d-0dea-419f-8077-ee08960a812e" />
 
 图片就是真实费用，0月费，低手续费
 
@@ -68,6 +69,7 @@ Luncard 是一家总部在香港的多币种支付平台，成立于 2023 年，
 **第三，防盗刷。** 多数虚拟卡平台支持单次消费限额、随时冻结、一键锁卡。比实体卡安全得多——实体卡一旦被盗刷，你连卡号都改不了。
 
 **第四，加密货币出金。** 很多虚拟visa卡支持用 USDT、USDC、BTC、ETH 直接充值消费，省去了"先把币换成法币再消费"的中间步骤。这对持币用户来说是个实打实的便利。
+
 
 ---
 
