@@ -24,7 +24,7 @@ Luncard 是一家总部在香港的多币种支付平台，成立于 2023 年，
 
 > 一句话总结：它是给"持币 + 有海外消费需求"的用户准备的一张入门级 Visa 虚拟卡，开卡门槛低、上手快、覆盖场景广。
 
-注册入口在这里（邀请好友注册可达30%的反佣）：👉 [立即注册 Luncard](https://luncard.com/?via=986571)
+注册入口在这里（邀请好友注册可达30%的反佣）：👉 [立即注册 Luncard](https://luncard.com/?via=322360370308766981)
 
 
 
@@ -92,7 +92,7 @@ Luncard 提供的虚拟卡（Visa/MasterCard 双头）在大多数情况下可�
 
 有一点值得一提：PokePay 的跨境手续费是 0%，货币转换费 1%，消费手续费 0.2 U，综合下来损耗大概在 2% 左右。如果你经常海淘，这个费率在同类平台里算是良心价。
 
-👉 [注册 Luncard 开卡，海淘不再被拒](https://luncard.com/?via=986571)
+👉 [注册 Luncard 开卡，海淘不再被拒](https://luncard.com/?via=322360370308766981)
 
 ---
 
@@ -119,7 +119,7 @@ Luncard 实测支持 Google Ads、Facebook Ads、TikTok Ads 等主流广告平�
 - 退款率、失败率不要太高，否则有冻卡风险
 - 卡内余额要充裕，广告平台有时候会预授权
 
-👉 [3U 开卡，适合广告投放测试的低成本方案](https://luncard.com/?via=986571)
+👉 [3U 开卡，适合广告投放测试的低成本方案](https://luncard.com/?via=322360370308766981)
 
 ---
 
@@ -142,8 +142,9 @@ visa虚拟卡注册这件事，难点从来不是"怎么注册"，而是"注册�
 Luncard 的逻辑比较清晰：合规运营、费率透明、场景覆盖全、门槛够低。3U 就能开一张虚拟卡试试水，出问题的成本极低。
 
 目前邀请好友开卡还能返佣，高达30%
-<img width="1381" height="649" alt="屏幕截图 2026-11-16 213133" src="https://github.com/user-attachments/assets/dfcb8c9c-1aba-4470-ab62-f0b130ffa449" />
+<img width="1629" height="895" alt="1" src="https://github.com/user-attachments/assets/b45d8229-cf65-4ab1-8130-9ee4aaa538a4" />
 
 
 
-👉 [点这里注册 Luncard](https://luncard.com/?via=986571)
+
+👉 [点这里注册 Luncard](https://luncard.com/?via=322360370308766981)
