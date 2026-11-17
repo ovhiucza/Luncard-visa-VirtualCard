@@ -142,7 +142,8 @@ visa虚拟卡注册这件事，难点从来不是"怎么注册"，而是"注册�
 Luncard 的逻辑比较清晰：合规运营、费率透明、场景覆盖全、门槛够低。3U 就能开一张虚拟卡试试水，出问题的成本极低。
 
 目前邀请好友开卡还能返佣，高达30%
-<img width="1381" height="649" alt="屏幕截图 2026-11-16 213133" src="https://github.com/user-attachments/assets/159c57b5-3db9-4efe-91cf-0ae3d7100132" />
+<img width="1381" height="649" alt="屏幕截图 2026-11-16 213133" src="https://github.com/user-attachments/assets/dfcb8c9c-1aba-4470-ab62-f0b130ffa449" />
+
 
 
 👉 [点这里注册 Luncard](https://luncard.com/?via=986571)
