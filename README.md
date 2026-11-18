@@ -34,7 +34,6 @@ Luncard 是一家总部在香港的多币种支付平台，成立于 2023 年，
 
 <img width="1101" height="748" alt="屏幕截图 2026-11-16 221601" src="https://github.com/user-attachments/assets/bb7b3a45-bdb4-4018-a8b1-a37e25e6bfd9" />
 
-<img width="1401" height="739" alt="屏幕截图 2026-11-16 212924" src="https://github.com/user-attachments/assets/b4188f2d-0dea-419f-8077-ee08960a812e" />
 
 图片就是真实费用，0月费，低手续费
 
